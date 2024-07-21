@@ -1,6 +1,6 @@
 # CodePen Editor
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
 [![Build Status](https://travis-ci.com/iMuhammadBilalDev/code-pen.svg?branch=main)](https://travis-ci.com/iMuhammadBilalDev/code-pen)
 
 A powerful and flexible online code editor inspired by CodePen. This project allows users to write and preview HTML, CSS, and JavaScript code in real-time.
@@ -12,7 +12,6 @@ A powerful and flexible online code editor inspired by CodePen. This project all
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgements](#acknowledgements)
 - [Contact](#contact)
 
