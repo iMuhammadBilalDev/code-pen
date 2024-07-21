@@ -26,9 +26,9 @@ A powerful and flexible online code editor inspired by CodePen. This project all
 
 ## Demo
 
-Check out the live demo: [CodePen Editor Demo](https://your-live-demo-link.com)
+Check out the live demo: [CodePen Editor Demo](http://localhost:5173/)
 
-![CodePen Editor Screenshot](screenshot.png)
+![code-pen](https://github.com/user-attachments/assets/feb343dd-4eb0-44f4-9cf2-8ccb1c993e4f)
 
 ## Installation
 
@@ -78,10 +78,6 @@ We welcome contributions from the community! To contribute, follow these steps:
 
 For major changes, please open an issue first to discuss what you would like to change.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
 - [CodeMirror](https://codemirror.net/) - The code editor component used in this project.
@@ -92,8 +88,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 - **GitHub**: [iMuhammadBilalDev](https://github.com/iMuhammadBilalDev)
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **Email**: [mbilalsoomroo@gmail.com](mailto:your-email@example.com)
 
----
 
-Feel free to customize this README template to fit the specifics of your project. A well-crafted README helps others understand, use, and contribute to your project. If you need any further assistance, let me know!
