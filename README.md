@@ -1,8 +1,4 @@
 # CodePen Editor
-
-
-[![Build Status](https://travis-ci.com/iMuhammadBilalDev/code-pen.svg?branch=main)](https://travis-ci.com/iMuhammadBilalDev/code-pen)
-
 A powerful and flexible online code editor inspired by CodePen. This project allows users to write and preview HTML, CSS, and JavaScript code in real-time.
 
 ## Table of Contents
